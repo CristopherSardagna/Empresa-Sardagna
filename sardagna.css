@@ -39,6 +39,7 @@ body{
 }
 .pro{
     font-size: 19px;
+    font-weight: 600;
 }
 .ol{
     text-align: 30px;
@@ -96,4 +97,15 @@ body{
 
 #prev-button{
     transform: rotate(180deg);
+}
+.descricao-casa1{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.valor-aluguel{
+    font-weight: 600;
 }
